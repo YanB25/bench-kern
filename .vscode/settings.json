@@ -1,0 +1,17 @@
+{
+    "C_Cpp.default.includePath": [                
+        "${workspaceFolder}/**",
+        "/usr/include",
+        "/usr/local/include",
+        "/usr/src/linux-headers-5.4.0-58/include",
+        "/usr/src/linux-headers-5.4.0-58-generic/include",
+        "/usr/src/linux-headers-5.4.0-58/arch/x86/include",
+        "/usr/lib/gcc/x86_64-linux-gnu/9/include",
+        "/lib/modules/5.4.0-58-generic/build/arch/x86/include"
+    ],
+    "C_Cpp.default.defines": [
+        "__GNUC__",
+        "__KERNEL__"
+    ],
+    "C_Cpp.clang_format_sortIncludes": false
+}
